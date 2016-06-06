@@ -35,3 +35,4 @@
 * Etiquetas inline y de bloque
 * Links
 * Ejercicio
+* Consejos para seguir aprendiendo
