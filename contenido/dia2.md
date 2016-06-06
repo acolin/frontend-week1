@@ -13,6 +13,7 @@
 
 * Selectores
 * Estilos avanzados
+* Position (relative, fixed, absolute...)
 * Media queries
 * Intro a animaciones
 * Ejercicio
